@@ -1,5 +1,5 @@
 App.AdminMethod=STDIO
-App.ApplicationPort1=7950
+App.Ports=@IncludeJson[farming-simulator-22ports.json]
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./survive-the-night/1502300/
 App.CommandLineArgs=+ip {{$ApplicationIPBinding}} +port {{$ApplicationPort1}} +queryport {{$ApplicationPort2}} +rconpassword "{{$RemoteAdminPassword}}" +maxusers {{$MaxUsers}} {{$FormattedArgs}}
