@@ -1,5 +1,5 @@
 App.AdminMethod=STDIO
-App.Ports=@IncludeJson[survive-the-nightconfig.json]
+App.Ports=@IncludeJson[survive-the-nightports.json]
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./survive-the-night/1502300/
 App.CommandLineArgs=+ip {{$ApplicationIPBinding}} +port {{$ApplicationPort1}} +queryport {{$ApplicationPort2}} +rconpassword "{{$RemoteAdminPassword}}" +maxusers {{$MaxUsers}} {{$FormattedArgs}}
