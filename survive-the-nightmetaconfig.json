@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "Config/ServerConfig.txt",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]

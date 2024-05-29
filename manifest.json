@@ -1,9 +1,10 @@
 {
-  "id": "ad7b3c55-1dad-47d2-9795-626af747b20e",
-  "authors": ["viper132"],
-  "origin": "https://github.com/viper132/amp-stn.git",
-  "url": "https://github.com/viper132/amp-stn",
-  "imagefile": "",
-  "prefix": "",
-  "repotype": "AppTemplates"
+    "id": "41775f03-6d01-47af-81aa-dade0b675620",
+    "authors": [
+        "viper132 - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/viper132 - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/viper132 - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "viper132 - Made with AMP Config Generator"
 }

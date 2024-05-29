@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Port",
+        "Category": "Survive the Nights - General",
+        "Description": "Set the port of application",
+        "Keywords": "port",
+        "FieldName": "serverPort",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverPort",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "7950",
+        "Placeholder": "7950",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
