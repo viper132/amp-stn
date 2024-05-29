@@ -1,14 +1,7 @@
 Meta.DisplayName=Survive the Night
 Meta.Description=Survive the Night Dedicated Server
-Meta.Arch=x86_64
 Meta.Author=viper132 - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/541300/Survive_the_Nights/
-Meta.MinAMPVersion=2.4.6.6
-Meta.SpecificDockerImage=
-Meta.DockerRequired=False
-Meta.ContainerPolicy=Supported
-Meta.ContainerPolicyReason=
-Meta.Prerequsites=[]
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$SteamQueryPort}
 Meta.AppConfigId=76a581a8-c0a0-49b8-a5aa-999ea6d92f45
 App.AdminMethod=STDIO
