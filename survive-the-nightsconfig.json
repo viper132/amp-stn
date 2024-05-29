@@ -1,0 +1,30 @@
+[
+  {
+    "DisplayName": "IP",
+    "Category": "Survive the Nights - General",
+    "Description": "Set the Game Server IP Address",
+    "Keywords": "",
+    "FieldName": "$GameIP",
+    "InputType": "text",
+    "Hidden": true,
+    "IsFlagArgument": false,
+    "ParamFieldName": "serverIP",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "192.168.1.126",
+    "EnumValues": {}
+  },
+  {
+    "DisplayName": "Port",
+    "Category": "Survive the Nights - General",
+    "Description": "Set the Game Server Port",
+    "Keywords": "",
+    "FieldName": "$GamePort",
+    "InputType": "number",
+    "Hidden": false,
+    "IsFlagArgument": false,
+    "ParamFieldName": "serverPort",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "7950",
+    "EnumValues": {}
+  }
+]

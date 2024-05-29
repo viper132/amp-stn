@@ -1,0 +1,9 @@
+[
+  {
+    "ConfigFile": "Config/ServerConfig.txt",
+    "ConfigType": "ini",
+    "AutoMap": true,
+    "ConfigFormat": "{0}={1}",
+    "ConfigFormatRegex": "^(?<key>.+?)=(?<value>[^\"]*?)$"
+  }
+]
